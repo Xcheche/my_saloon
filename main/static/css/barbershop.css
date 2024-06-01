@@ -664,6 +664,18 @@ strong {
   background: var(--custom-btn-bg-hover-color);
   border-color: transparent;
 }
+/* barber styling */
+.barber-list .barber-entry {
+    margin-bottom: 3rem; /* Adjust the spacing as needed */
+}
+.barber-card {
+    border: 1px solid #ddd;  /* Optional: Add border to the card */
+    padding: 1rem;          /* Optional: Add padding inside the card */
+    border-radius: 8px;     /* Optional: Add rounded corners */
+    background-color: #fff; /* Optional: Set background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+}
+
 
 
 /*---------------------------------------
